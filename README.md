@@ -8,29 +8,6 @@
 🧠 Constantly exploring new tech, backend logic, and digital creativity
 </p>
 
----
-
-## 🔎 About Me
-
-- 🔭 **Currently Building:**  
-  A dynamic PHP login system with Free/Paid tournament selection
-
-- 🤝 **Open to Collaborations:**  
-  Full-stack or frontend-focused projects (HTML, CSS, JS, PHP)
-
-- 💬 **Ask Me About:**  
-  Web design, Excel automation, frontend logic, software docs
-
-- 🌱 **Actively Learning:**  
-  MySQL, Laravel, advanced backend concepts
-
-- 🙋‍♂️ **Need Guidance On:**  
-  Backend security, Laravel ecosystem, and database scalability
-
-- ⚡ **Fun Fact:**  
-  I balance both code and coordination — developer & team player in one!
-
-
 
 ## 💼 Tech Stack
 
