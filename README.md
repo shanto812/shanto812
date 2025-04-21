@@ -30,18 +30,7 @@
 - ⚡ **Fun Fact:**  
   I balance both code and coordination — developer & team player in one!
 
----
 
-## 📂 Featured Projects
-
-| Project | Description | Link |
-|--------|-------------|------|
-| 🎮 **Tournament Login System** | A PHP login system with frontend-backend integration and Free/Paid tournament selection | [View Project](https://github.com/shanto812/shanto) |
-| 🌍 **WanderLens** *(Upcoming)* | A travel inspiration platform with dynamic content and media-rich UI | _Coming Soon..._ |
-
-> More projects will be added as I build & deploy — stay tuned!
-
----
 
 ## 💼 Tech Stack
 
