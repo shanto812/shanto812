@@ -67,16 +67,3 @@
 
 ---
 
-## 🌐 Connect with Me
-
-[![Discord]("https://discord.gg/s9pVA2Qx")
-
----
-
-<p align="center">
-  <a href="file:///D:/MY%20DRIVE%20(FILES)/SHANTO/Error/New%20folder/1731432146008.jpg">
-    <img src="https://hasibul-hassan.netlify.app/"/>
-  </a>
-</p>
-
-<!-- Proudly crafted by Shanto | Powered with ❤️ | Generated via GPRM -->
