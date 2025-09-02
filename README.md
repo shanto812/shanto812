@@ -69,13 +69,13 @@
 
 ## 🌐 Connect with Me
 
-[![Discord]([https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/karven12](https://discord.gg/s9pVA2Qx))
+[![Discord]("https://discord.gg/s9pVA2Qx")
 
 ---
 
 <p align="center">
   <a href="file:///D:/MY%20DRIVE%20(FILES)/SHANTO/Error/New%20folder/1731432146008.jpg">
-    <img src="[https://visitcount.itsvg.in/api?id=shanto812&icon=1&color=2" alt="Visitor Count](https://hasibul-hassan.netlify.app/)"/>
+    <img src="https://hasibul-hassan.netlify.app/"/>
   </a>
 </p>
 
