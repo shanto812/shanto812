@@ -24,19 +24,7 @@
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shanto812&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=shanto812&theme=dark&hide_border=false" alt="Streak Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanto812&theme=dark&hide_border=false&layout=compact" alt="Top Languages" />
-</p>
-
----
-
----
 
 ## 🔎 About Me
 
